@@ -1,0 +1,20 @@
+#CoresJogador > img{
+    cursor: pointer;
+}
+
+#divJogador  img {
+    width: 40px;
+    padding: 1px;
+    
+}
+
+#divComputador img{
+    width: 40px;
+    padding: 1px;
+    
+}
+
+.card-footer > h3 {
+    font-size: 35px;
+
+}

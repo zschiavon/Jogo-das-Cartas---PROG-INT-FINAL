@@ -1,0 +1,12 @@
+{
+  "name": "jogocores",
+  "version": "1.0.0",
+  "description": "Jogo das cores consiste em um jogo de humano vs computador onde é necessário acertar a sequência de cores na ordem correta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Schiavon Guido",
+  "license": "GENERAL PUBLIC LICENSE V3"
+}
